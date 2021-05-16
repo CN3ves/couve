@@ -1,4 +1,4 @@
-## Escolhe uma cor:
+## Quantos queres?:
 
 * [<span style="color:red;">Vermelho</span>](red.md)
 * [<span style="color:orange;">Laranja</span>](orange.md)
