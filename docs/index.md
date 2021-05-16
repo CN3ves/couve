@@ -1,3 +1,3 @@
 Escolhe uma cor:
 
-<color=red>Vermelho</color>
+<p style="color:red">[Vermelho](red.md)</p>
