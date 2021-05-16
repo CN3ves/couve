@@ -8,4 +8,4 @@
 * [<span style="color:purple;">Anil</span>](indigo.md)
 * [<span style="color:purple;">Roxo</span>](purple.md)
 
-<img src="https://pbs.twimg.com/profile_images/444944889180999680/jdESlpMU.jpeg" alt="hi" class="inline"/>
+<img src="https://auchaneeu.auchan.pt/content/uploads/2020/12/AE_VS_couve_portuguesa.jpg" alt="hi" class="inline"/>
