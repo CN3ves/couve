@@ -7,4 +7,4 @@
 * [<span style="color:blue;">Azul</span>](blue.md)
 * [<span style="color:purple;">Roxo</span>](purple.md)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WhereRainbowRises.jpg/250px-WhereRainbowRises.jpg" alt="hi" class="inline"/>
+<img src="https://i1.sndcdn.com/artworks-IcB9aJ7M02baA3xP-eGL5MA-t3000x3000.jpg" alt="hi" class="inline"/>
