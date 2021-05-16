@@ -1,10 +1,10 @@
-## Bolas! De certeza ?
+## E qual queres?
 
-* [Sim](s1.md)
-* [Sim](s1.md)
-* [Sim](s2.md)
-* [Sim](s1.md)
-* [Sim](s1.md)
-* [Sim](s2.md)
+* [Quadrado](square.md)
+* [Triangulo](triangle.md)
+* [Circulo](circle.md)
+* [Retangulo](rect.md)
+* [Pentagono](pent.md)
+* [Hexagono](hex.md)
 
-<img src="https://pbs.twimg.com/profile_images/1103530317233631233/njYbO6FW.png" alt="hi" class="inline"/>
+<img src="https://www.lightworkerhealing.com/wp-content/uploads/2018/01/Alchemy-of-the-4th-Dimension.jpg" alt="hi" class="inline"/>
