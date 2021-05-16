@@ -2,9 +2,8 @@
 
 * [Quadrado](square.md)
 * [Triangulo](triangle.md)
-* [Circulo](circle.md)
 * [Retangulo](rect.md)
 * [Pentagono](pent.md)
 * [Hexagono](hex.md)
 
-<img src="https://www.lightworkerhealing.com/wp-content/uploads/2018/01/Alchemy-of-the-4th-Dimension.jpg" alt="hi" class="inline"/>
+<img src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_974329090_384425.jpg" alt="hi" class="inline"/>
